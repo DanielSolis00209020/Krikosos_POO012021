@@ -1,0 +1,16 @@
+C:\Users\DSolis\Desktop\Archivos Daniel\UCA\POO\Labos_POO\Krikosos_POO012021\Krikosos_POO012021\bin\Debug\net5.0\Krikosos_POO012021.exe
+C:\Users\DSolis\Desktop\Archivos Daniel\UCA\POO\Labos_POO\Krikosos_POO012021\Krikosos_POO012021\bin\Debug\net5.0\Krikosos_POO012021.deps.json
+C:\Users\DSolis\Desktop\Archivos Daniel\UCA\POO\Labos_POO\Krikosos_POO012021\Krikosos_POO012021\bin\Debug\net5.0\Krikosos_POO012021.runtimeconfig.json
+C:\Users\DSolis\Desktop\Archivos Daniel\UCA\POO\Labos_POO\Krikosos_POO012021\Krikosos_POO012021\bin\Debug\net5.0\Krikosos_POO012021.runtimeconfig.dev.json
+C:\Users\DSolis\Desktop\Archivos Daniel\UCA\POO\Labos_POO\Krikosos_POO012021\Krikosos_POO012021\bin\Debug\net5.0\Krikosos_POO012021.dll
+C:\Users\DSolis\Desktop\Archivos Daniel\UCA\POO\Labos_POO\Krikosos_POO012021\Krikosos_POO012021\bin\Debug\net5.0\ref\Krikosos_POO012021.dll
+C:\Users\DSolis\Desktop\Archivos Daniel\UCA\POO\Labos_POO\Krikosos_POO012021\Krikosos_POO012021\bin\Debug\net5.0\Krikosos_POO012021.pdb
+C:\Users\DSolis\Desktop\Archivos Daniel\UCA\POO\Labos_POO\Krikosos_POO012021\Krikosos_POO012021\obj\Debug\net5.0\Krikosos_POO012021.csprojAssemblyReference.cache
+C:\Users\DSolis\Desktop\Archivos Daniel\UCA\POO\Labos_POO\Krikosos_POO012021\Krikosos_POO012021\obj\Debug\net5.0\Krikosos_POO012021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DSolis\Desktop\Archivos Daniel\UCA\POO\Labos_POO\Krikosos_POO012021\Krikosos_POO012021\obj\Debug\net5.0\Krikosos_POO012021.AssemblyInfoInputs.cache
+C:\Users\DSolis\Desktop\Archivos Daniel\UCA\POO\Labos_POO\Krikosos_POO012021\Krikosos_POO012021\obj\Debug\net5.0\Krikosos_POO012021.AssemblyInfo.cs
+C:\Users\DSolis\Desktop\Archivos Daniel\UCA\POO\Labos_POO\Krikosos_POO012021\Krikosos_POO012021\obj\Debug\net5.0\Krikosos_POO012021.csproj.CoreCompileInputs.cache
+C:\Users\DSolis\Desktop\Archivos Daniel\UCA\POO\Labos_POO\Krikosos_POO012021\Krikosos_POO012021\obj\Debug\net5.0\Krikosos_POO012021.dll
+C:\Users\DSolis\Desktop\Archivos Daniel\UCA\POO\Labos_POO\Krikosos_POO012021\Krikosos_POO012021\obj\Debug\net5.0\ref\Krikosos_POO012021.dll
+C:\Users\DSolis\Desktop\Archivos Daniel\UCA\POO\Labos_POO\Krikosos_POO012021\Krikosos_POO012021\obj\Debug\net5.0\Krikosos_POO012021.pdb
+C:\Users\DSolis\Desktop\Archivos Daniel\UCA\POO\Labos_POO\Krikosos_POO012021\Krikosos_POO012021\obj\Debug\net5.0\Krikosos_POO012021.genruntimeconfig.cache
