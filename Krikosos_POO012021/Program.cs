@@ -15,12 +15,12 @@ namespace Krikosos_POO012021
             Console.WriteLine("Enter a value for b:");
             b = Int32.Parse(Console.ReadLine());
             //this will display the results of the method operation
-            Console.WriteLine($"Subtracting {a} - {b} equals {SubtractNumbers(a, b)} ");
+            Console.WriteLine($"Multiplicating {a} * {b} equals {MultiplicateNumbers(a, b)} ");
         }
-        //This method will change
-        public static int SubtractNumbers(int a, int b)
+        //Final method
+        public static int MultiplicateNumbers(int a, int b)
         {
-            return a - b;//modify subtraction to multiplication
+            return a * b;//multiplication
         }
     }
 }

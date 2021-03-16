@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DSolis\\Desktop\\Archivos Daniel\\UCA\\POO\\Labos_POO\\Krikosos_POO012021\\Krikosos_POO012021\\Krikosos_POO012021.csproj": {}
+    "C:\\Users\\DSolis\\Desktop\\Archivos Daniel\\UCA\\Ciclo_3\\POO\\Labos_POO\\Krikosos\\Krikosos_POO012021\\Krikosos_POO012021\\Krikosos_POO012021.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DSolis\\Desktop\\Archivos Daniel\\UCA\\POO\\Labos_POO\\Krikosos_POO012021\\Krikosos_POO012021\\Krikosos_POO012021.csproj": {
+    "C:\\Users\\DSolis\\Desktop\\Archivos Daniel\\UCA\\Ciclo_3\\POO\\Labos_POO\\Krikosos\\Krikosos_POO012021\\Krikosos_POO012021\\Krikosos_POO012021.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DSolis\\Desktop\\Archivos Daniel\\UCA\\POO\\Labos_POO\\Krikosos_POO012021\\Krikosos_POO012021\\Krikosos_POO012021.csproj",
+        "projectUniqueName": "C:\\Users\\DSolis\\Desktop\\Archivos Daniel\\UCA\\Ciclo_3\\POO\\Labos_POO\\Krikosos\\Krikosos_POO012021\\Krikosos_POO012021\\Krikosos_POO012021.csproj",
         "projectName": "Krikosos_POO012021",
-        "projectPath": "C:\\Users\\DSolis\\Desktop\\Archivos Daniel\\UCA\\POO\\Labos_POO\\Krikosos_POO012021\\Krikosos_POO012021\\Krikosos_POO012021.csproj",
+        "projectPath": "C:\\Users\\DSolis\\Desktop\\Archivos Daniel\\UCA\\Ciclo_3\\POO\\Labos_POO\\Krikosos\\Krikosos_POO012021\\Krikosos_POO012021\\Krikosos_POO012021.csproj",
         "packagesPath": "C:\\Users\\DSolis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DSolis\\Desktop\\Archivos Daniel\\UCA\\POO\\Labos_POO\\Krikosos_POO012021\\Krikosos_POO012021\\obj\\",
+        "outputPath": "C:\\Users\\DSolis\\Desktop\\Archivos Daniel\\UCA\\Ciclo_3\\POO\\Labos_POO\\Krikosos\\Krikosos_POO012021\\Krikosos_POO012021\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DSolis\\AppData\\Roaming\\NuGet\\NuGet.Config",
